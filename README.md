@@ -37,7 +37,7 @@ pip install pandas numpy scikit-learn matplotlib
 
 ## Results
 
-The best-performing model achieves an accuracy of approximately **[Enter Accuracy]** on the test dataset.
+The best-performing model achieves an accuracy of approximately **[75.97]** on the test dataset.
 
 ## Acknowledgments
 
